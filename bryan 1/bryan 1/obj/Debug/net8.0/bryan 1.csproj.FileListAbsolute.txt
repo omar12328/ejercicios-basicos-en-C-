@@ -1,0 +1,14 @@
+C:\Users\henry\OneDrive\Escritorio\CARPETAS\bryan progra\bryan 1\bryan 1\bin\Debug\net8.0\bryan 1.exe
+C:\Users\henry\OneDrive\Escritorio\CARPETAS\bryan progra\bryan 1\bryan 1\bin\Debug\net8.0\bryan 1.deps.json
+C:\Users\henry\OneDrive\Escritorio\CARPETAS\bryan progra\bryan 1\bryan 1\bin\Debug\net8.0\bryan 1.runtimeconfig.json
+C:\Users\henry\OneDrive\Escritorio\CARPETAS\bryan progra\bryan 1\bryan 1\bin\Debug\net8.0\bryan 1.dll
+C:\Users\henry\OneDrive\Escritorio\CARPETAS\bryan progra\bryan 1\bryan 1\bin\Debug\net8.0\bryan 1.pdb
+C:\Users\henry\OneDrive\Escritorio\CARPETAS\bryan progra\bryan 1\bryan 1\obj\Debug\net8.0\bryan 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\OneDrive\Escritorio\CARPETAS\bryan progra\bryan 1\bryan 1\obj\Debug\net8.0\bryan 1.AssemblyInfoInputs.cache
+C:\Users\henry\OneDrive\Escritorio\CARPETAS\bryan progra\bryan 1\bryan 1\obj\Debug\net8.0\bryan 1.AssemblyInfo.cs
+C:\Users\henry\OneDrive\Escritorio\CARPETAS\bryan progra\bryan 1\bryan 1\obj\Debug\net8.0\bryan 1.csproj.CoreCompileInputs.cache
+C:\Users\henry\OneDrive\Escritorio\CARPETAS\bryan progra\bryan 1\bryan 1\obj\Debug\net8.0\bryan 1.dll
+C:\Users\henry\OneDrive\Escritorio\CARPETAS\bryan progra\bryan 1\bryan 1\obj\Debug\net8.0\refint\bryan 1.dll
+C:\Users\henry\OneDrive\Escritorio\CARPETAS\bryan progra\bryan 1\bryan 1\obj\Debug\net8.0\bryan 1.pdb
+C:\Users\henry\OneDrive\Escritorio\CARPETAS\bryan progra\bryan 1\bryan 1\obj\Debug\net8.0\bryan 1.genruntimeconfig.cache
+C:\Users\henry\OneDrive\Escritorio\CARPETAS\bryan progra\bryan 1\bryan 1\obj\Debug\net8.0\ref\bryan 1.dll
